@@ -1,7 +1,7 @@
 
 # 🧠 BrochureFlow AI
 
-**BrochureFlow AI** is a smart, JupyterLab-based tool that automates the creation of professional, humorous, and multilingual brochures for any business — powered by **multishot prompting**, **web scraping**, and **LLM (Large Language Model) APIs** via OpenRouter.
+**BrochureFlow AI** is a JupyterLab-based python script that automates the creation of professional, humorous, and multilingual brochures for any business — powered by **multishot prompting**, **web scraping**, and **LLM (Large Language Model) APIs** via OpenRouter.
 
 This project demonstrates how you can build an end-to-end AI content pipeline using modern prompting techniques in a structured, reproducible workflow.
 

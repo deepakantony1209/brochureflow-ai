@@ -96,19 +96,10 @@ This project is perfect if you're learning:
 
 ---
 
-## 📸 Screenshots (optional)
-
-_Add screenshots of step-by-step cell outputs or generated brochures here._
-
----
-
-## 👤 Author
-
-**Deepak Antony**    
-
----
-
-
 ## 🌟 Star This Repo
 
 If you find it helpful, please ⭐ the repo and share feedback!
+
+Thanks
+
+Deepak Antony

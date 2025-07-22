@@ -24,26 +24,7 @@ Both use **multishot prompting** to ensure consistent tone and structure.
 ### 3️⃣ Thanglish Translation
 Translates the brochure into **Thanglish** (Tamil + English) — useful for culturally localized marketing.
 
----
-
-## 📂 File Overview
-
-| File                     | Purpose                                               |
-|--------------------------|--------------------------------------------------------|
-| `BrochureFlow-AI.ipynb`  | Main Jupyter Notebook containing all source code       |
-| `.env`                   | Your API key file (not uploaded to GitHub)            |
-| `requirements.txt`       | Python packages needed to run the notebook             |
-| `README.md`              | This file                                              |
-
----
-
 ## 🛠️ Requirements
-
-Make sure you have the following installed:
-
-- Python 3.8+
-- JupyterLab or Jupyter Notebook
-- pip (Python package manager)
 
 Install the required libraries:
 
